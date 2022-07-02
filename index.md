@@ -22,19 +22,11 @@ Genome Med., vol. 13, no. 189, Dec. 2021
 ## Other Publications
 _Detection of hypoxia by near-infrared spectroscopy and pulse oximetry: A comparative study_  
 A. Cheung, **L. Tu**, A. Macnab, B.K. Kwon, and B. Shadgan  
-J. Biomed. Opt., Accepted.
+J. Biomed. Opt., Accepted 2022
 
 [_Continuous Optical Monitoring of Spinal Cord Oxygenation and Hemodynamics during the First Seven Days Post-Injury in a Porcine Model of Acute Spinal Cord Injury_](https://www.liebertpub.com/doi/10.1089/neu.2020.7086)  
 A. Cheung, **L. Tu**, N. Manouchehri, K. Kim, K. So, M. Webster, S. Fisk, S. Tigchelaar, S.S. Dalkilic, E.C. Sayre, F. Streijger, A. Macnab, B.K. Kwon, and B Shadgan  
 J. Neurotrauma, vol. 37, no. 21, Oct. 2020
-
-_Rapid Retrieval of the T2 Spectrum of Myelin Water Imaging Data Using a Deep Learning Approach_  
-**L. Tu**, H. Liu, R. Tam, and C. Laule  
-Multidisciplinary Undergraduate Research Conference (Oral presentation, Mar. 2020)
-
-_Continuous Monitoring of Spinal Cord Hemodynamics Using an Optical Sensor_  
-**L. Tu**, B. Shadgan, A. Cheung, N. Manouchehri, K. So, M. Webster, S. Fisk, A. Fong, F. Streijger, A. Macnab, and B.K. Kwon  
-Canadian Spinal Cord Injury Research Meeting (Poster presentation, Jul. 2019)
 
 [_The Fly Factor Phenomenon is Mediated by Interkingdom Signaling Between Bacterial Symbionts and Their Blow Fly Hosts_](https://onlinelibrary.wiley.com/doi/abs/10.1111/1744-7917.12632)  
 Y. Uriel, R. Gries, **L. Tu**, C. Carroll, H. Zhai, M. Moore, and G. Gries  
