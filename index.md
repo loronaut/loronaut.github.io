@@ -9,11 +9,11 @@ In my spare time, I like to powerlift and grow mushrooms.
 ## Select Publications
 _Machine Learning-Generated Radiomic and Clinical Data for Lung Cancer Survival Prediction_   
 **L. Tu**, H.H.F Choi, H. Clark, and S. A.M. Lloyd  
-American Association of Physicists in Medicine (AAPM) 64th Annual Meeting (Poster presentation, Jul. 2022)
+AAPM 64th Annual Meeting (Poster presentation, Jul. 2022)
 
 _Comparison of Machine Learning Models Trained on Synthetic Radiomic and Clinical Data_  
 **L. Tu**, H.H.F Choi, H. Clark, and S. A.M. Lloyd  
-68th Canadian Organization of Medical Physicists (COMP) Annual Scientific Meeting (Poster presentation, Jun. 2022)
+68th COMP Annual Scientific Meeting (Poster presentation, Jun. 2022)
 
 [_Predicting Heterogeneity in Clone-specific Therapeutic Vulnerabilities Using Single-cell Transcriptomic Signatures_](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-01000-y)  
 C. Suphavilai, S. Chia, A. Sharma, **L. Tu**, R.P. Da Silva, A. Mongia, R. DasGupta, and N. Nagarajan  
