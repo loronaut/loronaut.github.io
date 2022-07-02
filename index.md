@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+Hello there! I'm a second-year medical physics PhD student at the University of British Columbia. I'm advised by [Samantha Lloyd](http://www.vanradmed.com/dr.-samantha-lloyd) and [Stefan Reinsberg](https://pfeifer.phas.ubc.ca/wiki/doku.php?id=wiki:user:stefan), and am affiliated with [BC Cancer](http://www.bccancer.bc.ca/) and the [VanRadMed](http://www.vanradmed.com/) group.
 
-You can use the [editor on GitHub](https://github.com/loronaut/loronaut.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My main research interests are in the application of radiomics and artificial intelligence in radiation oncology. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Previously, I majored in Biophysics at the University of British Columbia and completed an Honours thesis under the guidance of [Cornelia Laule](http://www.mripathology.ca/) and [Roger Tam](https://blogs.ubc.ca/rogertam/). Before that, I did research at the [International Collaboration on Repair Discoveries](https://icord.org/) with [Brian Kwon](https://icord.org/researchers/dr-brian-kwon/) and [Babak Shadgan](https://biosensing.med.ubc.ca/ibl-team/babak-shadgan/). I've also spent time at the [Genome Institute of Singapore](https://www.a-star.edu.sg/gis) with [Niranjan Nagarajan](https://csb5.github.io/index.html). My first research experience was in entomology with [Gerhard Gries](https://www.sfu.ca/gries-lab.html) at Simon Fraser University.
 
-### Markdown
+In my spare time, I like to powerlift and grow mushrooms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Select Publications
 
-```markdown
-Syntax highlighted code block
+_Machine Learning-Generated Radiomic and Clinical Data for Lung Cancer Survival Prediction_
+Lorna Tu, Herve Choi, Haley Clark, Samantha Lloyd
+American Association of Physicists in Medicine (AAPM) 64th Annual Meeting (Poster presentation, July 2022)
 
-# Header 1
-## Header 2
-### Header 3
+_Comparison of Machine Learning Models Trained on Synthetic Radiomic and Clinical Data_
+Lorna Tu, Herve Choi, Haley Clark, Samantha Lloyd
+68th Canadian Organization of Medical Physicists (COMP) Annual Scientific Meeting (Poster presentation, June 2022)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loronaut/loronaut.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Other Publications
