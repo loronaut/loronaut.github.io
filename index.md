@@ -33,7 +33,7 @@ _Rapid Retrieval of the T2 Spectrum of Myelin Water Imaging Data Using a Deep Le
 Multidisciplinary Undergraduate Research Conference (Oral presentation, Mar. 2020)
 
 _Continuous Monitoring of Spinal Cord Hemodynamics Using an Optical Sensor_  
-**L. Tu**, B. Shadgan, A. Cheung, N. Manouchehri, K. So, M. Webster, S. Fisk, A. Fong, F. Streijger, A. Macnab, and B.K. Kwon
+**L. Tu**, B. Shadgan, A. Cheung, N. Manouchehri, K. So, M. Webster, S. Fisk, A. Fong, F. Streijger, A. Macnab, and B.K. Kwon  
 Canadian Spinal Cord Injury Research Meeting (Poster presentation, Jul. 2019)
 
 [_The Fly Factor Phenomenon is Mediated by Interkingdom Signaling Between Bacterial Symbionts and Their Blow Fly Hosts_](https://onlinelibrary.wiley.com/doi/abs/10.1111/1744-7917.12632)  
