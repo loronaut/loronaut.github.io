@@ -1,4 +1,4 @@
-Hi, I'm a second-year medical physics PhD student at the University of British Columbia. I'm advised by [Samantha Lloyd](http://www.vanradmed.com/dr.-samantha-lloyd) and [Stefan Reinsberg](https://pfeifer.phas.ubc.ca/wiki/doku.php?id=wiki:user:stefan), and am affiliated with the [VanRadMed](http://www.vanradmed.com/) group at [BC Cancer](http://www.bccancer.bc.ca/).
+Hi, I'm a 2nd year medical physics PhD student at the University of British Columbia. I'm advised by [Samantha Lloyd](http://www.vanradmed.com/dr.-samantha-lloyd) and [Stefan Reinsberg](https://pfeifer.phas.ubc.ca/wiki/doku.php?id=wiki:user:stefan), and am affiliated with the [VanRadMed](http://www.vanradmed.com/) group at [BC Cancer](http://www.bccancer.bc.ca/).
 
 My main research interests are in the application of radiomics and AI in radiation oncology. I hope to create trustworthy, interpretable AI tools to better understand cancer and support clinical decision making.
 
