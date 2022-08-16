@@ -20,9 +20,9 @@ C. Suphavilai, S. Chia, A. Sharma, **L. Tu**, R.P. Da Silva, A. Mongia, R. DasGu
 Genome Med., vol. 13, no. 189, Dec. 2021
 
 ## Other Publications
-_Detection of hypoxia by near-infrared spectroscopy and pulse oximetry: A comparative study_  
+[_Detection of hypoxia by near-infrared spectroscopy and pulse oximetry: A comparative study_](https://doi.org/10.1117/1.JBO.27.7.077001)  
 A. Cheung, **L. Tu**, A. Macnab, B.K. Kwon, and B. Shadgan  
-J. Biomed. Opt., Accepted 2022
+J. Biomed. Opt., vol. 27, no. 7, Jul. 2022
 
 [_Continuous Optical Monitoring of Spinal Cord Oxygenation and Hemodynamics during the First Seven Days Post-Injury in a Porcine Model of Acute Spinal Cord Injury_](https://www.liebertpub.com/doi/10.1089/neu.2020.7086)  
 A. Cheung, **L. Tu**, N. Manouchehri, K. Kim, K. So, M. Webster, S. Fisk, S. Tigchelaar, S.S. Dalkilic, E.C. Sayre, F. Streijger, A. Macnab, B.K. Kwon, and B Shadgan  
