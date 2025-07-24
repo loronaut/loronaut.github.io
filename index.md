@@ -7,7 +7,7 @@ My main research interests are in the application of radiomics and AI in radiati
 **L. Tu**, H.H.F. Choi, H. Clark, and S.A.M. Lloyd <br>
 Phys. Eng. Sci. Med., Jul. 2025
 
-[_Explainable artificial intelligence for the prediction of non-small cell lung carcinoma recurrence_](https://hal.science/hal-04720234v1) <br>
+[_Explainable artificial intelligence for the prediction of non-small cell lung carcinoma recurrence_](https://www.iccr2024.org/papers/526048.pdf) <br>
 **L. Tu**, H.H.F. Choi, H. Clark, and S.A.M. Lloyd <br>
 Proc. XXth International Conference on the use of Computers in Radiation therapy, Sep. 2024.
 
