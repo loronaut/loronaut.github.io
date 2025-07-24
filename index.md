@@ -3,15 +3,23 @@ Hi, I'm a medical physics PhD student at the University of British Columbia. I'm
 My main research interests are in the application of radiomics and AI in radiation oncology. I hope to create trustworthy, interpretable AI tools to better understand cancer and support clinical decision making.
 
 ## Select Publications
-_Machine Learning-Generated Radiomic and Clinical Data for Lung Cancer Survival Prediction_   
-**L. Tu**, H.H.F Choi, H. Clark, and S. A.M. Lloyd  
+[_An approach for cancer outcomes modelling using a comprehensive synthetic dataset_](https://doi.org/10.1007/s13246-025-01594-2)  
+**L. Tu**, H.H.F. Choi, H. Clark, and S.A.M. Lloyd <br>
+Phys. Eng. Sci. Med., Jul. 2025
+
+[_Explainable artificial intelligence for the prediction of non-small cell lung carcinoma recurrence_](https://hal.science/hal-04720234v1) <br>
+**L. Tu**, H.H.F. Choi, H. Clark, and S.A.M. Lloyd <br>
+Proc. XXth International Conference on the use of Computers in Radiation therapy, Sep. 2024.
+
+_Machine learning-generated radiomic and clinical data for lung cancer survival prediction_   
+**L. Tu**, H.H.F Choi, H. Clark, and S.A.M. Lloyd  
 AAPM 64th Annual Meeting (Poster presentation, Jul. 2022)
 
-_Comparison of Machine Learning Models Trained on Synthetic Radiomic and Clinical Data_  
-**L. Tu**, H.H.F Choi, H. Clark, and S. A.M. Lloyd  
+_Comparison of machine learning models trained on synthetic radiomic and clinical data_  
+**L. Tu**, H.H.F Choi, H. Clark, and S.A.M. Lloyd  
 68th COMP Annual Scientific Meeting (Poster presentation, Jun. 2022)
 
-[_Predicting Heterogeneity in Clone-specific Therapeutic Vulnerabilities Using Single-cell Transcriptomic Signatures_](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-01000-y)  
+[_Predicting heterogeneity in clone-specific therapeutic vulnerabilities using single-cell transcriptomic signatures_](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-01000-y)  
 C. Suphavilai, S. Chia, A. Sharma, **L. Tu**, R.P. Da Silva, A. Mongia, R. DasGupta, and N. Nagarajan  
 Genome Med., vol. 13, no. 189, Dec. 2021
 
